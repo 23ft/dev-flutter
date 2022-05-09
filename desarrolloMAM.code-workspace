@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "flutter_application_ble_connection"
+		},
+		{
+			"path": "flutter_application_bluethoot_serial_standart"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

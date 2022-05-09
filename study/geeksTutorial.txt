@@ -1,0 +1,8 @@
+*Widgets
+
+Scaffold – Implements the basic material design visual layout structure.
+AppBar – To create a bar at the top of the screen.
+Text  To write anything on the screen.
+Container – To contain any widget.
+    - This widget is similar to box model in HTML "content, padding, margin, border"
+Center – To provide center alignment to other widgets.
